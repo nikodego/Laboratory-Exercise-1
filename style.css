@@ -7,7 +7,7 @@
 body {
 font-family: Roboto;
 font-size: 16px;
-background-image: url(/images/background-image.jpg);
+background-image: url(./images/background-image.jpg);
 }
 
 .container {
